@@ -1,0 +1,52 @@
+REFERENCES
+Project: INX Future Inc Employee Performance
+Purpose:
+This folder contains supporting and explanatory materials used during the project. These materials help in understanding the dataset, variables, business requirements, data processing steps, machine learning methodology, and project implementation.
+Suggested Contents:
+1. Data Dictionary
+Description of each dataset column
+Data type of each variable
+Meaning of each variable
+Possible values or categories
+Business interpretation of important variables
+2. Dataset Documentation
+Original dataset information
+Dataset source
+Number of records and features
+Target variable information
+Description of the employee performance dataset
+3. Business Requirements
+Business problem description
+Project objectives
+Expected project outcomes
+Business questions to be answered
+4. Machine Learning References
+Classification methodology
+Model evaluation metrics
+Cross-validation methodology
+Feature importance methodology
+Model interpretation guidelines
+5. Supporting Materials
+Manuals
+Guidelines
+Technical documentation
+External reference documents
+Any other explanatory material used during the project
+Current Project Status:
+The project primarily uses the employee performance dataset and project documentation. No additional external reference manuals or third-party documents are currently required.
+Data Dictionary:
+The data dictionary should be maintained in this folder if a separate document is available. It should explain the meaning and purpose of the variables used in the employee performance dataset.
+Example important variables include:
+• PerformanceRating
+• EmpDepartment
+• EmpEnvironmentSatisfaction
+• EmpJobSatisfaction
+• EmpRelationshipSatisfaction
+• EmpWorkLifeBalance
+• EmpPercentSalaryHike
+• YearsSinceLastPromotion
+• EmpNumber
+Data Management:
+Reference documents should be kept in their original form whenever possible. Any project-specific notes or interpretations should be clearly identified as project documentation.
+Project:
+INX Future Inc Employee Performance

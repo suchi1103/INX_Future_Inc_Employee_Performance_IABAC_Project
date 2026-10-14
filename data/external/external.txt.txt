@@ -1,0 +1,18 @@
+EXTERNAL DATA
+Project: INX Future Inc Employee Performance
+Purpose:
+This folder is used to store datasets, reference files, or supporting information obtained from third-party or external sources that may be used during the project.
+Contents:
+No external datasets were used for the current project.
+The employee performance dataset used for this project is maintained separately in the data/raw/ folder.
+If external data is added in the future, it should be stored in this folder along with information about:
+•	Data source
+•	Dataset name
+•	Date obtained
+•	Description of the data
+•	License or usage restrictions, if applicable
+•	Purpose of using the data
+Data Management:
+External data should not be directly modified. Any cleaned or transformed version should be saved in the data/processed/ folder.
+Project:
+INX Future Inc Employee Performance
